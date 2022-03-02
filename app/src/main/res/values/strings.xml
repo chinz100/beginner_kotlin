@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">helloandorid</string>
+    <string name="hintage">Enter you age</string>
+    <string name="submit">"submit "</string>
+</resources>
